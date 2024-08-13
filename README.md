@@ -14,6 +14,7 @@ Collection of apps, developer resources, communities, and articles related to th
 - [📰 Articles](#Articles)
 - [🐦 Tweets](Tweets.md)
 - [👥 Community](#Community)
+- [📩 Newsletters](#Newsletter)
 - [📲 Apps](#Apps)
 
 # Repos
@@ -111,6 +112,9 @@ Collection of apps, developer resources, communities, and articles related to th
 - [VisionOS Dev Community](https://twitter.com/i/communities/1676670381879447564)
 - [VisionOS Community](https://twitter.com/i/communities/1670560952134303746)
 - [Apple Vision Pro Club](https://locals.org/apple-vision-pro-club-ugdq)
+
+# Newsletter
+- [visionOS fan - ](https://visionos.fan)
 
 # Apps
 
